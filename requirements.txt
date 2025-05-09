@@ -25,7 +25,6 @@ flair
 gdelt
 geopandas
 missingno
-mercury
 pygeodesy
 marisa_trie
 gdeltdoc 
